@@ -1,0 +1,9 @@
+Id pedido: 0
+Nombre cliente: 
+Direccion cliente: david
+Items del pedido: 
+
+Producto corral 14000
+Precio neto: 14000
+Precio iva pedido : 2660
+Precio total : 16660
